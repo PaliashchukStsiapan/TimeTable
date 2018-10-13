@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777348765252",
+    "firebase_url": "https://paliashchuk-724af.firebaseio.com",
+    "project_id": "paliashchuk-724af",
+    "storage_bucket": "paliashchuk-724af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777348765252:android:86d2f4d44d783f18",
+        "android_client_info": {
+          "package_name": "com.example.android.timetabledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777348765252-80dfh2rpfsvpmmkac8a35picj4jbts1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.timetabledemo",
+            "certificate_hash": "3f6232a85916966f7d08ad6c5878e2e6d0aaf84d"
+          }
+        },
+        {
+          "client_id": "777348765252-7qir5oeofd5t70j54h9kocsu83rhm2pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZUED2gf0iBW0MNIkoi-6_JfzjdewZ9V4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777348765252-7qir5oeofd5t70j54h9kocsu83rhm2pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
